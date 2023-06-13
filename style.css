@@ -1,0 +1,25 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0%;
+}
+body{
+    background-size: cover;
+}
+.copy_right_footer{
+    color:rgb(103, 245, 245);
+    position: fixed;
+    background-color:rgb(2, 117, 117);
+    text-align:center;
+    line-height: 3;
+    bottom: 0%;
+    width: 100%;
+
+}
+label{
+    color: rgb(74, 255, 3);
+    font-size: 25px;
+}
+#ob_nm{
+    width: 30%;
+}
